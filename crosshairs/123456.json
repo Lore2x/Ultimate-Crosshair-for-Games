@@ -1,0 +1,56 @@
+{
+  "Name": "123456",
+  "CrosshairColor": {
+    "A": 255,
+    "R": 255,
+    "G": 255,
+    "B": 255
+  },
+  "ShowLeftLine": true,
+  "ShowRightLine": true,
+  "ShowTopLine": true,
+  "ShowBottomLine": true,
+  "UseTriangleCap": true,
+  "LineCap": 1,
+  "Opacity": 100.0,
+  "Length": 49.0,
+  "Thickness": 4.0,
+  "Offset": 17.0,
+  "RotationAngle": 0.0,
+  "ShowCircle": false,
+  "UseSameColor": true,
+  "CircleColor": {
+    "A": 255,
+    "R": 255,
+    "G": 255,
+    "B": 255
+  },
+  "CircleOpacity": 100.0,
+  "CircleThickness": 2.0,
+  "CircleSize": 50.0,
+  "CrosshairScale": 0.5,
+  "PositionX": 0.0,
+  "PositionY": 0.0,
+  "ShowOutline": true,
+  "OutlineColor": {
+    "A": 255,
+    "R": 0,
+    "G": 0,
+    "B": 0
+  },
+  "OutlineOpacity": 100.0,
+  "OutlineThickness": 2.0,
+  "ShowDot": false,
+  "DotColor": {
+    "A": 255,
+    "R": 0,
+    "G": 0,
+    "B": 0
+  },
+  "DotShape": "HollowRound",
+  "DotOpacity": 100.0,
+  "DotSize": 10.0,
+  "EnableAnimation": false,
+  "RightClickOffset": 0.0,
+  "LeftClickOffset": 0.0
+}
