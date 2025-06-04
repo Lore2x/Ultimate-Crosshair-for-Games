@@ -1,1 +1,6 @@
-
+{
+  "bannedUserCodes": [
+    "d290f1ee-6c54-4b01-90e6-d701748f0851",
+    "fae9c72e-bcce-41f0-8a7f-3f3d0c6b7a2a"
+  ]
+}
