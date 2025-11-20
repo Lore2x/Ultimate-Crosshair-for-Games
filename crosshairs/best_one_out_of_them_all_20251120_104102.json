@@ -1,0 +1,140 @@
+{
+  "UserCode": "b88fb0896303491d8aebf18f1c2caa6b",
+  "Name": "best one out of them all",
+  "CreationDate": "2025-11-20T10:41:01.8531649+02:00",
+  "SettingsKey": null,
+  "IsFavorite": false,
+  "CrosshairColor": {
+    "A": 255,
+    "R": 255,
+    "G": 0,
+    "B": 0
+  },
+  "ShowLeftLine": false,
+  "ShowRightLine": true,
+  "ShowTopLine": false,
+  "ShowBottomLine": true,
+  "UseTriangleCap": false,
+  "LineCap": 1,
+  "Opacity": 100.0,
+  "Length": 16.0,
+  "Thickness": 4.0,
+  "Offset": 0.0,
+  "RotationAngle": 45.0,
+  "LineBlur": 2.0,
+  "ShowDot": true,
+  "DotColor": {
+    "A": 255,
+    "R": 0,
+    "G": 0,
+    "B": 0
+  },
+  "UseLinesColorForDot": false,
+  "DotShape": "HollowRound",
+  "DotOpacity": 23.0,
+  "DotThickness": 2.0,
+  "DotSize": 1.0,
+  "DotBlur": 0.0,
+  "ShowCircle": false,
+  "CircleColor": {
+    "A": 255,
+    "R": 255,
+    "G": 255,
+    "B": 255
+  },
+  "UseLinesColorForCircle": false,
+  "CircleOpacity": 100.0,
+  "CircleThickness": 2.0,
+  "CircleSize": 22.0,
+  "CircleBlur": 0.0,
+  "ShowOutline": true,
+  "OutlineColor": {
+    "A": 255,
+    "R": 0,
+    "G": 0,
+    "B": 0
+  },
+  "OutlineOpacity": 100.0,
+  "OutlineThickness": 1.0,
+  "OutlineBlur": 0.0,
+  "FireLeft": false,
+  "FireRight": false,
+  "FireTop": false,
+  "FireBottom": false,
+  "LoopFireAnimation": false,
+  "CancelFireEffectsOnRelease": false,
+  "FireLineColor": {
+    "A": 0,
+    "R": 255,
+    "G": 255,
+    "B": 255
+  },
+  "FireDotColor": {
+    "A": 0,
+    "R": 255,
+    "G": 255,
+    "B": 255
+  },
+  "FireCircleColor": {
+    "A": 0,
+    "R": 255,
+    "G": 255,
+    "B": 255
+  },
+  "FireOutlineColor": {
+    "A": 0,
+    "R": 255,
+    "G": 255,
+    "B": 255
+  },
+  "FireOffsetChangeMode": "Outside",
+  "FireOffsetChangeValue": 0.0,
+  "FireFadeDuration": 0.0,
+  "FireLinesOpacity": 100.0,
+  "FireDotOpacity": 100.0,
+  "FireCircleOpacity": 100.0,
+  "FireOutlineOpacity": 100.0,
+  "AimLeft": true,
+  "AimRight": false,
+  "AimTop": true,
+  "AimBottom": false,
+  "LoopAimAnimation": false,
+  "CancelAimEffectsOnRelease": false,
+  "AimLineColor": {
+    "A": 255,
+    "R": 255,
+    "G": 0,
+    "B": 0
+  },
+  "AimDotColor": {
+    "A": 0,
+    "R": 255,
+    "G": 255,
+    "B": 255
+  },
+  "AimCircleColor": {
+    "A": 0,
+    "R": 255,
+    "G": 255,
+    "B": 255
+  },
+  "AimOutlineColor": {
+    "A": 255,
+    "R": 0,
+    "G": 0,
+    "B": 0
+  },
+  "AimOffsetChangeMode": "Inside",
+  "AimOffsetChangeValue": 19.0,
+  "AimFadeDuration": 502.0,
+  "AimLinesOpacity": 100.0,
+  "AimDotOpacity": 23.0,
+  "AimCircleOpacity": 100.0,
+  "AimOutlineOpacity": 100.0,
+  "ImageFileName": null,
+  "HideCrosshair": false,
+  "ImageOpacity": 0.0,
+  "ImageScale": 0.0,
+  "ImagePosX": 0.0,
+  "ImagePosY": 0.0
+}
