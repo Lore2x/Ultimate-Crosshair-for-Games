@@ -54,10 +54,10 @@
     };
 
     /* --- التعديل الجديد هنا --- */
-    Tawk_API.onChatMessageAgent = function(message){
-        // الآن سيظهر تنبيه يحتوي على نص رسالة موظف الدعم الفني مباشرة
-        alert("الدعم الفني: " + message);
-    };
+  Tawk_API.onChatMessageAgent = function(message){
+    // قمنا بتغيير message إلى message.text لقراءة النص فقط
+    alert(message.text);
+};
     /* -------------------------- */
     </script>
 </body>
