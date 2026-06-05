@@ -52,6 +52,13 @@
         Tawk_API.maximize();
         Tawk_API.hideWidget = function() {};
     };
+
+    /* --- الكود الجديد المضاف هنا --- */
+    Tawk_API.onChatMessageAgent = function(message){
+        // سيتم تنفيذ هذا الكود فوراً عند إرسال موظف الدعم أي رسالة
+        alert("لديك رسالة جديدة من الدعم الفني!");
+    };
+    /* -------------------------------- */
     </script>
 </body>
 </html>
